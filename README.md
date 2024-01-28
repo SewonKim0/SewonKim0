@@ -15,5 +15,5 @@ Coming from a rich experience in musical performance, I like to play the clarine
 ## Connect With Me!
 
 * [LinkedIn](https://www.linkedin.com/in/sewon-kim-b0285423b/)
-* [Portfolio](https://github.com/SewonKim0/portfolio)
+* [Portfolio](https://sewonkim0.github.io/new-portfolio/)
 * [Youtube](https://www.youtube.com/channel/UCOkuvvVxC3kBF26IcPeJk9g)
